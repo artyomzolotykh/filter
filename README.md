@@ -1,3 +1,3 @@
 # Информация по проекту
 
-Ссылка на страницу: [StoreFunc](https://artyomzolotykh.github.io/filter/).
+Ссылка на страницу: [Filter](https://artyomzolotykh.github.io/filter/).
